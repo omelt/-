@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mifengwo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.mifengwo.war">
+      <element id="artifact" artifact-name="mifengwo:war exploded" />
+    </root>
+  </artifact>
+</component>
